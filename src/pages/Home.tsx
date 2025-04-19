@@ -1,5 +1,5 @@
+import { BellIcon, ChevronDown, LogOut, Search, User } from 'lucide-react';
 import { useState } from 'react';
-import { MapPin, Search, BellIcon, ChevronDown, ChevronRight, Bed, Bath, Maximize, LogOut, User } from 'lucide-react';
 import Map from '../components/Map';
 
 export default function Home() {
